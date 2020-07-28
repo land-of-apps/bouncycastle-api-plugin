@@ -4,9 +4,6 @@ version: ~> 1.0
 jdk:
 - openjdk8
 
-maven:
-    version: 3.0.5
-
 import: land-of-apps/land-of-apps:travis/java-imports.yml
 
 script:
