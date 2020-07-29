@@ -1,3 +1,4 @@
 name: bouncycastle-api-plugin
 packages:
-   - path: jenkins.bouncycastle
+ - path: jenkins.bouncycastle
+ - path: org.bouncycastle
